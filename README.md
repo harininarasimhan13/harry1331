@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harry1331
 - 👀 I’m interested in ... data science, bioinformatics, machine learning
 - 🌱 I’m currently learning ... bioinformatics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... cool data science and machine learning projects
 - 📫 How to reach me ...
 
 <!---
